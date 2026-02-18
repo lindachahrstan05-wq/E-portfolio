@@ -6,4 +6,6 @@ Jag finner ett starkt intresse inom mjukvaruutveckling, speciellt inom SQL eller
 Telefon nummer: 076 318 53 23  
 Email: linda.machah@gmail.se
 #### Projekt
-Ett av de senaste projekten var att bygga en databas. En datamodelering gjordes först, sedan byggdes och utvecklades databasen. Projektet gjordes av mig och två andra studenter på KTH. 
+Ett av de senaste projekten var att bygga en databas. En datamodelering gjordes först, sedan byggdes och utvecklades databasen. Projektet gjordes av mig och två andra studenter på KTH.  
+
+Ytterligare ett projekt som gjordes nyligen är ett interaktivt spel på en DTEK-V Board, det utvecklades i C. Projektet gjordes av mig och en student. 
