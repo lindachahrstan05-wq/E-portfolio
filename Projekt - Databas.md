@@ -1,3 +1,3 @@
 # Utveckling av databas
 Jag, tillsammans med två andra studenter, fick möjligheten att utveckla och skapa en databas där entiteter som olika kursinstanser,  
-employment, department och kurs layouts inbegreps. Vi började med att skapa en conceptual model och fick djupdyka inom datamodelleringen för att få vart enda detalj att stämma. 
+employment, department och kurs layouts inbegreps. Vi började med att skapa en conceptual model och fick djupdyka inom datamodelleringen för att få vart enda detalj att stämma. Vi behövde tänka på olika constraints och vilka typer av deletes som är bäst anpassade. Utifrån conceptual model kunde vi skapa en databas och behövde ändra och lägga till vissa constraints eller liknade för att få den att fungera som planerat. SQL queries användes kontinuerligt under processen för att felsöka eller optimera databasen. 
