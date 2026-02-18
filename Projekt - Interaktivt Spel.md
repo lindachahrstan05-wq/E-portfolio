@@ -1,1 +1,3 @@
-# Interaktivt Fiction Spel
+# Interactive Fiction Game
+Tillsammans med en annan student utvecklade vi ett interaktivt fiction spel på en DTEK-V Board. Hela spelet var utvecklat i C. Vi skrev koden både för spelets uppbyggnad, själva berättelsen, men också kod för att få hårdvaran att fungera. Spelet var en 3x3 dimensionell värld med 9 rum och spelet gick ut på att spelaren skulle passera alla 9 rum, samla på sig godis (liv) för att när man passerar monstret så har man byggt upp extra resurser, samla på sig en nyckel för att låsa upp en stängd dörr (man kan inte passera rummet så vida man inte har nyckeln). Vi behövde anpassa koden för hårdvaran för att undvika exempelvis att knapparna skulle registrera dubbeltryckningar när det egentligen inte var det. Under processen fick vi lära oss att felsöka och hantera oförutsägbara händelser. 
+
