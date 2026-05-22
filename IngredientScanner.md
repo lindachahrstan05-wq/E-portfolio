@@ -16,6 +16,6 @@ const warningsCount =
 ```
 ---
 <p align="center">
-<img src="images/startsida.png" width="500">
+<img src="images/startsida.png" width="400">
     <img src="images/varningssida.png" width="500">
 </p>
