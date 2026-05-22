@@ -8,5 +8,5 @@ Email: lindachahrstan05@gmail.com
 #### Projekt
 ##### Utveckling och modellering av en databas
 Ett av de senaste projekten var att bygga en databas. En datamodelering gjordes först, sedan byggdes och utvecklades databasen. Projektet gjordes av mig och två andra studenter på KTH.  
-##### Interaktivt spel utvecklat på DTEK-V Board
-Ytterligare ett projekt som gjordes nyligen är ett interaktivt spel på en DTEK-V Board, det utvecklades i C. Projektet gjordes av mig och en student. 
+##### Utveckling av en webapp - IngredientScanner
+Ytterligare ett projekt som gjordes nyligen är en web applikation som kan scanna innehållsförteckningen i livsmedel och ge varningar för de E-ämnen som användaren har i sin preferenslista. 
