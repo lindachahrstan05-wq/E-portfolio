@@ -1,6 +1,6 @@
 # Utveckling av databas
 Tillsammans med två andra studenter utvecklade och skapade vi en databas där entiteter som olika kursinstanser,  
-employment, department, kurs layouts m.m hanterades. Vi började med att skapa en conceptual model och gick noggrant igenom datamodelleringen för att få vart enda detalj att stämma. Vi tog hänsyn till olika constraints och vilka typer av deletes som är mest anpassade. Utifrån conceptual model kunde vi skapa en databas och behövde ändra och lägga till vissa constraints eller liknade för att få den att fungera som planerat. SQL queries användes kontinuerligt under processen för att felsöka eller optimera databasen. 
+employment, department, kurs layouts m.m hanterades. Vi började med att skapa en conceptual model och gick noggrant igenom datamodelleringen för att få vart enda detalj att stämma. Vi tog hänsyn till olika constraints och vilka typer av deletes som är mest anpassade. Utifrån conceptual model kunde vi skapa en databas och behövde ändra och lägga till vissa constraints eller liknade för att få den att fungera som planerat. SQL queries användes kontinuerligt under processen för att felsöka eller optimera databasen. Higher grade gjordes av Ebba. 
 
 ---
 Denna visar hur vi skapade en primär nyckel för tabellen planned_activity och hur vi skapar en tabell allocations i databasen
@@ -23,3 +23,7 @@ Utdrag från databasen
 <img src="images/database.png" width="500">
 </p>
 
+---
+
+Länk till git repot där all kod finns
+[GitHub Repository](https://github.com/ebbaelvelid/iv1351-project)
