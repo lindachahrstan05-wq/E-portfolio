@@ -15,6 +15,7 @@ const warningsCount =
   const warningsPercentage = (warningsCount / totalCount) * 100
 ```
 ---
+Bilder på startsidan av webappen och en varningssidan efter scanningen
 <p align="center">
 <img src="images/startsida.png" width="300">
     <img src="images/varningssida.png" width="500">
