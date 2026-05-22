@@ -15,4 +15,4 @@ CREATE TABLE allocations (
 );
 ```
 
-![Utdrag från databasen](images/database.png)
+![Utdrag från databasen](images/database.PNG)
