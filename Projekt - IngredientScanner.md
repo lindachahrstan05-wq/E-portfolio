@@ -25,3 +25,6 @@ Bilder på startsidan av webappen och en varningssidan efter scanningen
 
 Länk till git repot där all kod finns
 [GitHub Repository](https://gits-15.sys.kth.se/lincha/Ansmark)
+
+Länk till webappen
+[Scaneat.se](https://www.scaneat.se/)
