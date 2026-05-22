@@ -19,5 +19,7 @@ CREATE TABLE allocations (
 ---
 
 Utdrag från databasen
+<p align="center">
 <img src="images/database.png" width="500">
+</p>
 
