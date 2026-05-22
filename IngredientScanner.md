@@ -1,1 +1,1 @@
-# Utveckling av en 
+# Utveckling av en webapp - IngredientScanner
