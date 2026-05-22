@@ -14,3 +14,5 @@ CREATE TABLE allocations (
  allocated_hours NUMERIC NOT NULL
 );
 ```
+
+![Utdrag från databasen](images/database.png)
